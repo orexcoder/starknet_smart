@@ -1,2 +1,2 @@
-# starknet_smartcontract
+# Starknet smart contract
 Developing a smart contract on Starknet
